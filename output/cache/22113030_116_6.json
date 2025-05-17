@@ -1,0 +1,46 @@
+{
+  "roll": "22113030",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/leJGZA2lQbFdJxswo5YuggFTxdf5uGJS1r0/OP7mi0umh6NaLXC1f0S5WDwBsSGelvwNi35+PM22q8BrtcNlNdU2Qth9yf1CSLQ8Rc2AaKUICtDSR39HxBXbAnm5zfF4je",
+  "session": "116",
+  "semester": "6",
+  "name": "KANHA CHANDRAVANSHI",
+  "father_name": "RAMSHARAN CHANDRAVANSHI",
+  "enrollment_number": "221293",
+  "result": {
+    "A Course on Organizational Behaviour": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 3
+    },
+    "Transport Phenomena": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Process Dynamics and Control": {
+      "grade": "D",
+      "gradepoint": 6.0,
+      "credits": 4
+    },
+    "Environmental Engineering": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 4
+    },
+    "Environmental Engineering Lab": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 1
+    },
+    "Process Dynamics and Control Lab": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 7.95,
+  "CPI": 8.73,
+  "total_credits": null,
+  "roll_number": "22113030"
+}

@@ -6,8 +6,6 @@ import os
 import json
 from flask_cors import CORS
 
-
-
 app = Flask(__name__)
 CORS(app)  
 
@@ -38,12 +36,11 @@ def load_from_cache(roll, session, semester):
 def run_batch():
     results = []
 
-    # Read session and semester from query parameters, with defaults if you want
     session = request.args.get("session", "116")
     semester = request.args.get("semester", "6")
 
     start_roll = request.args.get("start_roll", default=22115001, type=int)
-    end_roll = request.args.get("end_roll", default=22115002, type=int)  # inclusive example
+    end_roll = request.args.get("end_roll", default=22115002, type=int)
 
     for roll in range(start_roll, end_roll + 1):
         roll_str = str(roll)
@@ -56,9 +53,16 @@ def run_batch():
 
         try:
             print(f"Fetching PDF for roll: {roll_str}, session: {session}, semester: {semester}")
-            pdf_url = get_result_pdf_link(roll_str, session, semester)
+            result = get_result_pdf_link(roll_str, session, semester)
+            
+            if "pdf_url" not in result:
+                print(f"❌ Error fetching PDF URL for roll {roll_str}: {result.get('error', 'No URL found')}")
+                continue
+
+            pdf_url = result["pdf_url"]
             pdf_filename = os.path.join(DATA_DIR, f"result_{roll_str}.pdf")
             
+            print(f"Downloading PDF from URL: {pdf_url}")
             download_pdf(pdf_url, pdf_filename)
             print(f"Downloaded PDF for {roll_str}")
 
@@ -84,7 +88,6 @@ def run_batch():
         except Exception as e:
             print(f"❌ Error processing roll {roll_str}: {e}")
 
-    # Save batch results summary (optional)
     output_path = os.path.join(OUTPUT_DIR, "results.json")
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
@@ -113,9 +116,15 @@ def get_single_result():
 
     try:
         print(f"Fetching PDF for single roll: {roll}, session: {session}, semester: {semester}")
-        pdf_url = get_result_pdf_link(roll, session, semester)
+        result = get_result_pdf_link(roll, session, semester)
+
+        if "pdf_url" not in result:
+            return jsonify({"error": result.get("error", "No PDF URL found")}), 400
+
+        pdf_url = result["pdf_url"]
         pdf_filename = os.path.join(DATA_DIR, f"result_{roll}.pdf")
         
+        print(f"Downloading PDF from URL: {pdf_url}")
         download_pdf(pdf_url, pdf_filename)
         print(f"Downloaded PDF for {roll}")
 
