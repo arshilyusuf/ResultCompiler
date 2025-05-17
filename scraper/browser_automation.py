@@ -23,22 +23,21 @@ def get_result_pdf_link(roll_no, session_value, semester_value):
     options.add_argument(f"--user-data-dir={temp_user_data_dir}")
 
     driver = webdriver.Chrome(options=options)
-    wait = WebDriverWait(driver, 20)
+    wait = WebDriverWait(driver, 15)
 
     try:
         driver.get(BASE_URL)
 
-        # Enter roll number
         roll_input = wait.until(EC.presence_of_element_located((By.ID, "txtRegno")))
         roll_input.clear()
         roll_input.send_keys(roll_no)
 
-        # Click show button
         show_btn = wait.until(EC.element_to_be_clickable((By.ID, "btnimgShow")))
         show_btn.click()
+
         time.sleep(1)
 
-        # Handle alert if it appears
+        # Handle potential alert after clicking "Show"
         try:
             alert = driver.switch_to.alert
             alert_text = alert.text
@@ -47,44 +46,44 @@ def get_result_pdf_link(roll_no, session_value, semester_value):
         except:
             pass
 
-        # Select session
+        # Wait for and select session
         wait.until(EC.presence_of_element_located((By.ID, "ddlSession")))
         session_select = Select(driver.find_element(By.ID, "ddlSession"))
         session_select.select_by_value(session_value)
 
-        # Wait for semester dropdown to populate
-        for _ in range(10):
-            semester_select = Select(driver.find_element(By.ID, "ddlSemester"))
-            options_list = [opt.get_attribute("value") for opt in semester_select.options]
-            if len(options_list) > 1:
-                break
-            time.sleep(1)
-        else:
-            return {"error": f"⚠️ Semester dropdown did not populate for roll {roll_no}"}
+        # Wait for semester dropdown to update after session selection
+        semester_dropdown = driver.find_element(By.ID, "ddlSemester")
+        initial_options = len(Select(semester_dropdown).options)
 
-        if semester_value not in options_list:
-            return {"error": f"⚠️ Semester {semester_value} not available for roll {roll_no}"}
+        def semester_updated(driver):
+            current_options = len(Select(driver.find_element(By.ID, "ddlSemester")).options)
+            return current_options != initial_options and current_options > 1
 
+        wait.until(semester_updated)
+
+        # Select semester
+        semester_select = Select(driver.find_element(By.ID, "ddlSemester"))
         semester_select.select_by_value(semester_value)
 
-        # Wait for button
+        # Locate and scroll to CBCS button
         cbc_btn = wait.until(EC.presence_of_element_located((By.ID, "btnCBCSTabulation")))
         driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", cbc_btn)
         time.sleep(1)
 
-        # Try direct href
+        # Attempt to get href directly
         pdf_url = cbc_btn.get_attribute("href")
         if pdf_url:
             return {"pdf_url": pdf_url}
 
-        # Try onclick attribute
+        # If not in href, try to extract from onclick
         onclick_attr = cbc_btn.get_attribute("onclick")
         if onclick_attr:
             match = re.search(r"window\.open\(['\"](.*?)['\"]", onclick_attr)
             if match:
-                return {"pdf_url": match.group(1)}
+                pdf_url = match.group(1)
+                return {"pdf_url": pdf_url}
 
-        # Try clicking to open new tab
+        # Last resort: simulate click and switch to new tab
         try:
             ActionChains(driver).move_to_element(cbc_btn).click().perform()
         except:
@@ -94,7 +93,6 @@ def get_result_pdf_link(roll_no, session_value, semester_value):
         driver.switch_to.window(driver.window_handles[-1])
         pdf_url = driver.current_url
 
-        # Cleanup and return
         driver.close()
         driver.switch_to.window(driver.window_handles[0])
         return {"pdf_url": pdf_url}
