@@ -18,7 +18,8 @@ def get_result_pdf_link(roll_no, session_value, semester_value):
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
 
-    
+    temp_profile = tempfile.mkdtemp(prefix="chrome-profile-")
+    options.add_argument(f"--user-data-dir={temp_profile}")
     driver = webdriver.Chrome(options=options)
     wait = WebDriverWait(driver, 15)
 
@@ -82,3 +83,5 @@ def get_result_pdf_link(roll_no, session_value, semester_value):
 
     finally:
         driver.quit()
+        shutil.rmtree(temp_profile, ignore_errors=True)
+
