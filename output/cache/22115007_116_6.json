@@ -1,0 +1,31 @@
+{
+  "roll": "22115007",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/leJrPTEpxxgPSDWjdh9Hbq9SfG825Kwpb8f3NwOpAz80q8HTBmVG9AfIkF95AR3mZv+++XueYALdTouaZCEp0XUbvn8W94HQ2wJA6Htq7LKZ2+AqKikXmgR22IKhHAYiQJ",
+  "session": "116",
+  "semester": "6",
+  "name": "AMULYA SAHU",
+  "father_name": "SHIVKUMAR SAHU",
+  "enrollment_number": "220492",
+  "result": {
+    "Applied Machine Learning": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 3
+    },
+    "Cryptography and network Security Lab": {
+      "grade": "E",
+      "gradepoint": 5.0,
+      "credits": 1
+    },
+    "Data warehousing and Data mining and AI Lab": {
+      "grade": "D",
+      "gradepoint": 6.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "FAIL",
+  "SPI": null,
+  "CPI": null,
+  "total_credits": null,
+  "roll_number": "22115007"
+}

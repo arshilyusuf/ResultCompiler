@@ -1,0 +1,41 @@
+{
+  "roll": "23113021",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQGU6oi6YaiPKsFckzkWxB3VJO7CgKF8KQnZCCvKpaZN2QOo7AddP93ZYSiih15Wt0aAdLeHlU6vozguKo0eHdBiIuz+IdiXnoRCOrdxt01DRY4Q7Xd6lNjgVe2wqyrI4gYeAk5knIEt1F/EUxIcNW3",
+  "session": "116",
+  "semester": "4",
+  "name": "BADAVATH VASU",
+  "father_name": "BADAVATH BHASKAR",
+  "enrollment_number": "230662",
+  "result": {
+    "Fuel Technology": {
+      "grade": "F",
+      "gradepoint": 0.0,
+      "credits": 0
+    },
+    "Chemical Technology": {
+      "grade": "F",
+      "gradepoint": 0.0,
+      "credits": 0
+    },
+    "Chemical Engineering Thermodynamics": {
+      "grade": "F",
+      "gradepoint": 0.0,
+      "credits": 0
+    },
+    "Fuel Technology Lab": {
+      "grade": "D",
+      "gradepoint": 6.0,
+      "credits": 1
+    },
+    "Analytical Lab": {
+      "grade": "F",
+      "gradepoint": 0.0,
+      "credits": 0
+    }
+  },
+  "result_pf": "FAIL",
+  "SPI": null,
+  "CPI": null,
+  "total_credits": null,
+  "roll_number": "23113021"
+}

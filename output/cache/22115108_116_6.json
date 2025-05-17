@@ -1,0 +1,51 @@
+{
+  "roll": "22115108",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/leulmQWdoJVc2ql40RLKUqI4Kdz9bazLe+k62RYqvsZsTRpL97HP2muuyT7HPJDEjWaW0NN2aJK226mCm6yWs82aw2k66rFBkBO51xuok1Qw6CHJ8prqrLmzcnyH+Cv94R",
+  "session": "116",
+  "semester": "6",
+  "name": "VIDHI LAHARE",
+  "father_name": "LEKHRAJ LAHARE",
+  "enrollment_number": "220490",
+  "result": {
+    "Cloud Computing": {
+      "grade": "D",
+      "gradepoint": 6.0,
+      "credits": 3
+    },
+    "Advanced Algorithms": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 3
+    },
+    "Artificial Intelligence & Expert System": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 4
+    },
+    "Cryptography and network Security": {
+      "grade": "F",
+      "gradepoint": 0.0,
+      "credits": 0
+    },
+    "Data warehousing and Data mining": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Cryptography and network Security Lab": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 1
+    },
+    "Data warehousing and Data mining and AI Lab": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "FAIL",
+  "SPI": null,
+  "CPI": null,
+  "total_credits": null,
+  "roll_number": "22115108"
+}

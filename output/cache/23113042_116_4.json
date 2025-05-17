@@ -1,0 +1,41 @@
+{
+  "roll": "23113042",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQGU6oi6YaiPKsFckzkWxB3kHv6mXXoqkwkoGdX584M40cbLntPGRZIRdz7N2E8OAk5JYPPQD39aHv7CT66ikzAxvjvZUyQFRYRtxY8ygOuwXixy6P98A2eRv8qYlcq9Utq8rNHHExkj5IhhCpgAhSk",
+  "session": "116",
+  "semester": "4",
+  "name": "NIYATI PRAVEEN PATODIA",
+  "father_name": "PRAVEEN PATODIA",
+  "enrollment_number": "230568",
+  "result": {
+    "Fuel Technology": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 4
+    },
+    "Chemical Technology": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Chemical Engineering Thermodynamics": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Fuel Technology Lab": {
+      "grade": "O",
+      "gradepoint": 10.0,
+      "credits": 1
+    },
+    "Analytical Lab": {
+      "grade": "O",
+      "gradepoint": 10.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 8.3,
+  "CPI": 8.53,
+  "total_credits": null,
+  "roll_number": "23113042"
+}

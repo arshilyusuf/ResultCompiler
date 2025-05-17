@@ -1,0 +1,44 @@
+
+1
+Name :
+Father's Name :
+Roll No : 22115001
+Enrollment No : 220537SHAILESH GANGELEY
+Subject Code Name of Subjects Grade Credits
+SPRING 2025 EXAMINATION  (CBCS SCHEME)
+National Institute of Technology Raipur
+G.E. Road, Raipur Chhattisgarh - 492010, India
+AATMIKA GANGELEY
+Mother's Name : SHUBHA GANGELEY
+Grade Point
+B.Tech. , COMPUTER SCIENCE & ENGINEERING   , VI  Semester
+Sr.No.
+हहननन ननम : आतततकक
+INTERIM RESULTCS106302CS O 10 3 1 Applied Machine Learning
+CS106221CS O 10 3 2 Deep Learning
+CS106202CS O 10 3 3 Advanced Algorithms
+CS106103CS O 10 4 4 Artificial Intelligence & Expert System
+CS106102CS O 10 4 5 Cryptography and network Security
+CS106101CS O 10 4 6 Data warehousing and Data mining
+CS106402CS O 10 1 7 Cryptography and network Security Lab
+CS106401CS O 10 1 8 Data warehousing and Data mining and AI Lab
+SPI :  10.00 23CPI : 9.89PASSRESULT :
+Result Declaration Date : 15/05/2025
+Disclaimer :
+NIT Raipur is not responsible for any inadvertent error that may have crept in to publication of the results on 
+Institute's website. The results published on the institute's website are for immediate information to the 
+examinees. The results published are provisional and subject to the modification after post-publication scrutiny.
+Last Date of Objection : 17/05/2025
+Any mistake detected should however, be brought to the notice of Professor Incharge, Examinations NIT Raipur 
+and DGC of respective department within 3 days from the date of publication of interim result. After final result 
+declaration no applicable will be entertain.
+Email ID: examcontroller@nitrr.ac.in, Phone No. +91 9893655655
+Online Result Objection Apply Link:
+MIS Login -> Examination -> Online Application -> Objection in Results
+Online Provisional Degree Apply Link:
+MIS Login -> Examination -> Online Application -> Provisional Application 
+Notice for Provisional Degree Certificate:
+After the online application and fee payment, You will get the scan copy of the signed Provisional Degree 
+Certificate in your registered Email id, Generally, this procedure will take 15 working days  You may collect a 
+hard copy from the exam cell on any working day.
+Print Date : 17-May-2025 Page 1 of 1

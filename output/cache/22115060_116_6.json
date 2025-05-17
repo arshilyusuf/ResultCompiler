@@ -1,0 +1,51 @@
+{
+  "roll": "22115060",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/levY/LVAIKSfH6G+bI8raLQbbFn7VNcoePcUBu4/eSWvQMhdKTEkQNYTPtkU7BxuDmoTGyWpql4ZICiJ7jXn4W/mygDZSfNat+SPoaA+Dlcap6ynmBFepCksNZxIJcwKjL",
+  "session": "116",
+  "semester": "6",
+  "name": "NERADABILLI HEMANTH KUMAR",
+  "father_name": "NERADABILLI ESWARA RAO",
+  "enrollment_number": "220455",
+  "result": {
+    "Applied Machine Learning": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 3
+    },
+    "Advanced Algorithms": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 3
+    },
+    "Artificial Intelligence & Expert System": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 4
+    },
+    "Cryptography and network Security": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Data warehousing and Data mining": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Cryptography and network Security Lab": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 1
+    },
+    "Data warehousing and Data mining and AI Lab": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 7.69,
+  "CPI": 7.11,
+  "total_credits": null,
+  "roll_number": "22115060"
+}

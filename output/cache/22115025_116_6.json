@@ -1,0 +1,36 @@
+{
+  "roll": "22115025",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/le13HI062mpm2mTXMTSqN00K1BhZqu1VPbfYsTH/p7ma87py120hHD4hoCWQqfkv7GFHrnZhkiol+OPoxqJ4pxPKdFFRUqH6GsLWV0hNBsIq3kA1l3JUeyme39HW/S5qTC",
+  "session": "116",
+  "semester": "6",
+  "name": "CHIRRA YASWANTH BABU",
+  "father_name": "CHIRRA ANJI BABU",
+  "enrollment_number": "220695",
+  "result": {
+    "Applied Machine Learning": {
+      "grade": "F",
+      "gradepoint": 0.0,
+      "credits": 0
+    },
+    "Cryptography and network Security": {
+      "grade": "F",
+      "gradepoint": 0.0,
+      "credits": 0
+    },
+    "Cryptography and network Security Lab": {
+      "grade": "E",
+      "gradepoint": 5.0,
+      "credits": 1
+    },
+    "Data warehousing and Data mining and AI Lab": {
+      "grade": "E",
+      "gradepoint": 5.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "FAIL",
+  "SPI": null,
+  "CPI": null,
+  "total_credits": null,
+  "roll_number": "22115025"
+}

@@ -1,0 +1,41 @@
+{
+  "roll": "23113068",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQGU6oi6YaiPKsFckzkWxB3KqA5y7Xme332zL218rJ1vv2g/pS4lUCr7jkB569t0EJ+BKA0FkO2LPVIq4j4QKKnTU8wD4d/jPnKDIY643hh620gu0ru1uX+NwLkrq8O6PwTgvtiIdoY7jj9oKsWGqP5",
+  "session": "116",
+  "semester": "4",
+  "name": "TEJAS DINESH SHRIRAMWAR",
+  "father_name": "DINESH BHAGWAN SHRIRAMWAR",
+  "enrollment_number": "230539",
+  "result": {
+    "Fuel Technology": {
+      "grade": "O",
+      "gradepoint": 10.0,
+      "credits": 4
+    },
+    "Chemical Technology": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 4
+    },
+    "Chemical Engineering Thermodynamics": {
+      "grade": "O",
+      "gradepoint": 10.0,
+      "credits": 4
+    },
+    "Fuel Technology Lab": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 1
+    },
+    "Analytical Lab": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 9.42,
+  "CPI": 9.25,
+  "total_credits": null,
+  "roll_number": "23113068"
+}

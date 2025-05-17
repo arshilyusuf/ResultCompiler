@@ -1,0 +1,51 @@
+{
+  "roll": "22115074",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/leQRAGUxStUa2+tqzmpn09nbFHLZkyRQlECR4pxTFQOrQocZpDh4xdu3pAY/EyamNAyVpPBidi4k+YmrIK7hasqE6ZLdAZlmdf17rxsWEaTW20n84ZKaB1eOVOEDRKjHxQ",
+  "session": "116",
+  "semester": "6",
+  "name": "RAHUL SINGH",
+  "father_name": "RAM PAL SINGH",
+  "enrollment_number": "220554",
+  "result": {
+    "Applied Machine Learning": {
+      "grade": "E",
+      "gradepoint": 5.0,
+      "credits": 3
+    },
+    "Advanced Algorithms": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 3
+    },
+    "Artificial Intelligence & Expert System": {
+      "grade": "E",
+      "gradepoint": 5.0,
+      "credits": 4
+    },
+    "Cryptography and network Security": {
+      "grade": "D",
+      "gradepoint": 6.0,
+      "credits": 4
+    },
+    "Data warehousing and Data mining": {
+      "grade": "E",
+      "gradepoint": 5.0,
+      "credits": 4
+    },
+    "Cryptography and network Security Lab": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 1
+    },
+    "Data warehousing and Data mining and AI Lab": {
+      "grade": "D",
+      "gradepoint": 6.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 5.69,
+  "CPI": 5.95,
+  "total_credits": null,
+  "roll_number": "22115074"
+}

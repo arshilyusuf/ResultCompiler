@@ -1,0 +1,41 @@
+{
+  "roll": "23113005",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQGU6oi6YaiPKsFckzkWxB3Krj4iylVrcqAkUV5rcpS7GtdCbNwm4v1m8HL/PrrEBM4QWpCVAbU6zWtTrESpE3Clcekvr9ZsBoQn6tG4JEu6MHm3VkeRg5c9VraQwdZpOupdTq4CSjRPOuNqSWRgnnH",
+  "session": "116",
+  "semester": "4",
+  "name": "ABHAY YADAV",
+  "father_name": "BUDHNATH YADAV",
+  "enrollment_number": "230546",
+  "result": {
+    "Fuel Technology": {
+      "grade": "D",
+      "gradepoint": 6.0,
+      "credits": 4
+    },
+    "Chemical Technology": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 4
+    },
+    "Chemical Engineering Thermodynamics": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 4
+    },
+    "Fuel Technology Lab": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 1
+    },
+    "Analytical Lab": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 7.34,
+  "CPI": 6.88,
+  "total_credits": null,
+  "roll_number": "23113005"
+}

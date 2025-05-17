@@ -1,0 +1,51 @@
+{
+  "roll": "22115002",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/legAUCTv5FL0B+e4Kz6gPaeChrp4WfjHk/cOXh4bBkHCTbGsy5+s/WATWmlCopwzPorH1275Gp+wPj13CaKCTFUYJajmsGTtrQbC7MfnEv/aG5KV52y1O8GLT42pxtT/3Q",
+  "session": "116",
+  "semester": "6",
+  "name": "ABHISHEK SINGH",
+  "father_name": "SUSIL KUMAR SINGH",
+  "enrollment_number": "220518",
+  "result": {
+    "Applied Machine Learning": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 3
+    },
+    "Advanced Algorithms": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 3
+    },
+    "Artificial Intelligence & Expert System": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Cryptography and network Security": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Data warehousing and Data mining": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Cryptography and network Security Lab": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 1
+    },
+    "Data warehousing and Data mining and AI Lab": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 8.08,
+  "CPI": 7.93,
+  "total_credits": null,
+  "roll_number": "22115002"
+}

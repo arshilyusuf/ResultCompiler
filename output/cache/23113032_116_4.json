@@ -1,0 +1,36 @@
+{
+  "roll": "23113032",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQGU6oi6YaiPKsFckzkWxB3RQ7ZxP7QpMtkiTHi0hsXWRjVC1bKYjRDBZIBrBPZ1RLOCiwxMinTY23VsLyeGTL/wsJeauIbaRvSnLbrLhnAIz7c6l5wiTGkGSQxGI446DWICySnWT07R8BvktF/uot7",
+  "session": "116",
+  "semester": "4",
+  "name": "KUNDAN KUMAR",
+  "father_name": "KISHOR KUMAR",
+  "enrollment_number": "230563",
+  "result": {
+    "Chemical Technology": {
+      "grade": "F",
+      "gradepoint": 0.0,
+      "credits": 0
+    },
+    "Chemical Engineering Thermodynamics": {
+      "grade": "F",
+      "gradepoint": 0.0,
+      "credits": 0
+    },
+    "Fuel Technology Lab": {
+      "grade": "D",
+      "gradepoint": 6.0,
+      "credits": 1
+    },
+    "Analytical Lab": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "FAIL",
+  "SPI": null,
+  "CPI": null,
+  "total_credits": null,
+  "roll_number": "23113032"
+}

@@ -1,0 +1,51 @@
+{
+  "roll": "22115024",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/lescGLopsAZcVuN5GUz41u32wmmUNRseplSLev1OnL2plkEx47nGOij7fABG08RrID9vAtIYcfzG3ZPFGlcWcJrvq0G1da2gH/eQBtPMr2t6Nn9H0d1gjhHzyr6lLbXDpK",
+  "session": "116",
+  "semester": "6",
+  "name": "CHIRAG GARG",
+  "father_name": "AJAY GARG",
+  "enrollment_number": "220402",
+  "result": {
+    "Applied Machine Learning": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 3
+    },
+    "Advanced Algorithms": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 3
+    },
+    "Artificial Intelligence & Expert System": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Cryptography and network Security": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 4
+    },
+    "Data warehousing and Data mining": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Cryptography and network Security Lab": {
+      "grade": "D",
+      "gradepoint": 6.0,
+      "credits": 1
+    },
+    "Data warehousing and Data mining and AI Lab": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 7.78,
+  "CPI": 8.16,
+  "total_credits": null,
+  "roll_number": "22115024"
+}

@@ -1,0 +1,51 @@
+{
+  "roll": "22115063",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/leJjQBiAJZzeYBGzAzthwzYdXvPNKg/ZioUxge3Hciyyvm7E/u2h8Q7aEzwrERiqmPY6rxc5HQd1c92FAqX+fcqv0oVh8VKwUvUHFS9Vu4x8bBOGlCnsxs4Ii3d8WoO2kG",
+  "session": "116",
+  "semester": "6",
+  "name": "NITESH KUMAR KHANNA",
+  "father_name": "NOVINDRA KUMAR KHANNA",
+  "enrollment_number": "220539",
+  "result": {
+    "Applied Machine Learning": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 3
+    },
+    "Advanced Algorithms": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 3
+    },
+    "Artificial Intelligence & Expert System": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 4
+    },
+    "Cryptography and network Security": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 4
+    },
+    "Data warehousing and Data mining": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Cryptography and network Security Lab": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 1
+    },
+    "Data warehousing and Data mining and AI Lab": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 8.21,
+  "CPI": 8.46,
+  "total_credits": null,
+  "roll_number": "22115063"
+}

@@ -1,0 +1,51 @@
+{
+  "roll": "22115039",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQwAkjpLB7CYLJwlDn+e/le2xO39nRZTPLJouz1a5ZQcsoLX8ElS70fT3Huw6wk2XGrK5xC3JyuTe1M8vq7VtPTddwbv3/Ercn3UfLQMyPHtr3YcoSfW91FCbdYlVyHqdthObc8VSwUMzYax/r3YqgF",
+  "session": "116",
+  "semester": "6",
+  "name": "KAILASH MISTRY",
+  "father_name": "KAMLESH MISTRY",
+  "enrollment_number": "220433",
+  "result": {
+    "Applied Machine Learning": {
+      "grade": "O",
+      "gradepoint": 10.0,
+      "credits": 3
+    },
+    "Advanced Algorithms": {
+      "grade": "O",
+      "gradepoint": 10.0,
+      "credits": 3
+    },
+    "Artificial Intelligence & Expert System": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Cryptography and network Security": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Data warehousing and Data mining": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 4
+    },
+    "Cryptography and network Security Lab": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 1
+    },
+    "Data warehousing and Data mining and AI Lab": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 8.73,
+  "CPI": 9.21,
+  "total_credits": null,
+  "roll_number": "22115039"
+}

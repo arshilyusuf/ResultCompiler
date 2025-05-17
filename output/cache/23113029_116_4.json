@@ -1,0 +1,41 @@
+{
+  "roll": "23113029",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQGU6oi6YaiPKsFckzkWxB3T+KlKQA123/SW7nMLmT2nfOvhkTHUlLFWOKzT7N0/MNnMiu32U1pEP6xO84fic5auN2EMT48JaOV4F1vZkP0TR2RXIZGHP/qVrhtg5xmTKl8b5hB1R6pMmWbBTQKV6FN",
+  "session": "116",
+  "semester": "4",
+  "name": "HARIHARAN S",
+  "father_name": "V G SENTHIL KUMAR",
+  "enrollment_number": "230638",
+  "result": {
+    "Fuel Technology": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 4
+    },
+    "Chemical Technology": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 4
+    },
+    "Chemical Engineering Thermodynamics": {
+      "grade": "E",
+      "gradepoint": 5.0,
+      "credits": 4
+    },
+    "Fuel Technology Lab": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 1
+    },
+    "Analytical Lab": {
+      "grade": "A",
+      "gradepoint": 9.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "FAIL",
+  "SPI": null,
+  "CPI": null,
+  "total_credits": null,
+  "roll_number": "23113029"
+}

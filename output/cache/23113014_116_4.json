@@ -1,0 +1,41 @@
+{
+  "roll": "23113014",
+  "pdf_url": "https://mis.nitrr.ac.in/Reports/iitms2HJfT723jPbWCcHsYEFTsRKvnRW1csjpTqsWg98+XUMX73jYUnUvQ0pwcTEt7OcLFOSAYs3fCsyCYP5TTrXkTw==?enc=nO1yUl57bAfpYLjk6w0qr2hVCuefSkYtDxagGDYfyeGLF5BFzZy/5Rjcwop/bVCGKXQsuyilkkRZiNU+U0XvLf+MN4Q4nFjz96hB/qgSCxEA3g3JCjT1B0bafJt/GfCOYkOJcFLjUPSkMpAR8S3NSsq+gnQsS7bGA1W4Kdg2EkSjhWMS4SNTgzyavZSGmwqyPuEbHI5KvOsEgVWArpMzcmYCBXh6S4y60xIJo52uyCpmnOu6aGZX4y0bYNl9lg2yOJo6NNbMcGTPng4Oo63fFoe5Y9vF/ODIBCD7lAQyMuQGU6oi6YaiPKsFckzkWxB3HPGj1H9ED9C5WbZwm58d/uxtUPp8UP4PYe33qRrQlhGqNGmrjETPenXRYmeZWBX3jq06TS7xRvYOAvncS4OhzFcd8ZwVixGqUWq2E9R+RDXPCMJKAMmL8M2gUyRqfGCd",
+  "session": "116",
+  "semester": "4",
+  "name": "AJIT KUMAR",
+  "father_name": "VIJAY KUMAR",
+  "enrollment_number": "230694",
+  "result": {
+    "Fuel Technology": {
+      "grade": "E",
+      "gradepoint": 5.0,
+      "credits": 4
+    },
+    "Chemical Technology": {
+      "grade": "E",
+      "gradepoint": 5.0,
+      "credits": 4
+    },
+    "Chemical Engineering Thermodynamics": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 4
+    },
+    "Fuel Technology Lab": {
+      "grade": "C",
+      "gradepoint": 7.0,
+      "credits": 1
+    },
+    "Analytical Lab": {
+      "grade": "B",
+      "gradepoint": 8.0,
+      "credits": 1
+    }
+  },
+  "result_pf": "PASS",
+  "SPI": 7.03,
+  "CPI": 0.0,
+  "total_credits": null,
+  "roll_number": "23113014"
+}
