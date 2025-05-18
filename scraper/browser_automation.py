@@ -5,10 +5,13 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import StaleElementReferenceException, TimeoutException
+from selenium.webdriver.chrome.service import Service
 import time
 import re
 import tempfile
 import shutil
+import uuid
+import os
 
 BASE_URL = "https://mis.nitrr.ac.in/iitmsoBF2zO1QWoLeV7wV7kw7kcHJeahVjzN4t6MFMeyhUykpKfBA9V+F0/3m6SMOr7hf?enc=2vjcaEnhmvfs4iwSJr18eQaN1iwTCkDZLg4FpnIV12/vTB0HoHDs8kZdmyK5DB9t"
 
@@ -35,13 +38,18 @@ def get_result_pdf_link(roll_no, session_value, semester_value):
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
 
-    temp_user_data_dir = tempfile.mkdtemp()
+    unique_id = uuid.uuid4().hex
+    temp_user_data_dir = os.path.join(tempfile.gettempdir(), f"chrome_{unique_id}")
+    os.makedirs(temp_user_data_dir, exist_ok=True)
     options.add_argument(f"--user-data-dir={temp_user_data_dir}")
-
-    driver = webdriver.Chrome(options=options)
-    wait = WebDriverWait(driver, 15)
+    
+    # Use ChromeService for better resource management
+    service = Service()
 
     try:
+        driver = webdriver.Chrome(service=service, options=options)
+        wait = WebDriverWait(driver, 30)  # Increased from 15 to 30 seconds
+        
         driver.get(BASE_URL)
 
         roll_input = wait.until(EC.presence_of_element_located((By.ID, "txtRegno")))
@@ -140,5 +148,12 @@ def get_result_pdf_link(roll_no, session_value, semester_value):
     except Exception as e:
         return {"error": f"⚠️ Selenium error: {str(e)}"}
     finally:
-        driver.quit()
-        shutil.rmtree(temp_user_data_dir, ignore_errors=True)
+        try:
+            if 'driver' in locals():
+                driver.quit()
+        except:
+            pass
+        try:
+            shutil.rmtree(temp_user_data_dir, ignore_errors=True)
+        except:
+            pass
