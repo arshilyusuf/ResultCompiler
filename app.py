@@ -5,8 +5,11 @@ from scraper.result_parser import parse_result_text
 import os
 import json
 from flask_cors import CORS
+from multiprocessing import Lock
 
 app = Flask(__name__)
+browser_lock = Lock()
+
 CORS(app)  
 
 DATA_DIR = "data"
@@ -116,7 +119,10 @@ def get_single_result():
 
     try:
         print(f"Fetching PDF for single roll: {roll}, session: {session}, semester: {semester}")
-        result = get_result_pdf_link(roll, session, semester)
+        
+        # Wrap the browser operation with the lock
+        with browser_lock:
+            result = get_result_pdf_link(roll, session, semester)
 
         if "pdf_url" not in result:
             return jsonify({"error": result.get("error", "No PDF URL found")}), 400
@@ -151,7 +157,6 @@ def get_single_result():
     except Exception as e:
         print(f"❌ Error processing roll {roll}: {e}")
         return jsonify({"error": str(e)}), 500
-
 
 if __name__ == "__main__":
     app.run(debug=True)
