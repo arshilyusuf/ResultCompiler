@@ -14,7 +14,7 @@ import shutil
 import uuid
 import os
 
-ENABLE_LOGGING = False
+ENABLE_LOGGING = True
 
 logging.basicConfig(
     level=logging.INFO if ENABLE_LOGGING else logging.CRITICAL,
