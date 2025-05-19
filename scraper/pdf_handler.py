@@ -2,7 +2,7 @@ import requests
 import pdfplumber
 import logging
 
-ENABLE_LOGGING = False
+ENABLE_LOGGING = True
 
 logging.basicConfig(
     level=logging.INFO if ENABLE_LOGGING else logging.CRITICAL,
