@@ -8,7 +8,7 @@ from flask_cors import CORS
 from multiprocessing import Lock
 import logging
 
-ENABLE_LOGGING = False
+ENABLE_LOGGING = True
 
 logging.basicConfig(
     level=logging.INFO if ENABLE_LOGGING else logging.CRITICAL,
